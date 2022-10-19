@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Factors.PrimeFactors();
-           
+            FlipCoin.CalculatePercentage();
+          
         }
     }
 }
