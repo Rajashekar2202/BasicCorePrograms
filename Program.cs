@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            PowerOfTwo.PowerOfTheTwo();
+            QuotientRemainder.CalculateQutientRemainder();
         }
     }
 }
