@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            LeapYear.CheckLeapYear();
+            PowerOfTwo.PowerOfTheTwo();
         }
     }
 }
