@@ -4,8 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            SwapTwoNumbers.SwappingTwoNumbers();
-            
+            VowelConsonent.VowelAndConsonent();
         }
     }
 }
