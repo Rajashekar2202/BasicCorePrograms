@@ -4,7 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            QuotientRemainder.CalculateQutientRemainder();
+            SwapTwoNumbers.SwappingTwoNumbers();
+            
         }
     }
 }
